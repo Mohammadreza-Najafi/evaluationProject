@@ -1,0 +1,6 @@
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\bin\Debug\Practice3.exe.config
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\obj\Debug\Practice3.csprojResolveAssemblyReference.cache
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\bin\Debug\Practice3.exe
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\bin\Debug\Practice3.pdb
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\obj\Debug\Practice3.exe
+C:\Users\Mohammadreza\Desktop\New folder (2)\Practice1\Practice3\obj\Debug\Practice3.pdb
