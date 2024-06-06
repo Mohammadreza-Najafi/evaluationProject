@@ -6,6 +6,8 @@ Welcome to the repository showcasing my solutions for a challenging C# and .NET 
 
 This repository is a collection of my solutions to a series of C# and .NET programming questions.
 
+[Download Questions](./Questions.pdf)
+
 ## 💡 Solutions Overview
 
 For more detailed explanations and insights into some of the questions, please refer to the PDF document included in this repository.
